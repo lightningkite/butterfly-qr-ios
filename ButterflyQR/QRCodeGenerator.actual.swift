@@ -1,6 +1,6 @@
 //
 //  QRCodeGenerator.swift
-//  KhrysalisQR
+//  ButterflyQR
 //
 //  Created by Brady Svedin on 8/10/20.
 //  Copyright © 2020 Lightning Kite. All rights reserved.
@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import CoreImage
 import RxSwift
-import Khrysalis
+import Butterfly
 
 
 //func generateBarCode(text:String, width:Int = 200, height:Int = 200) -> Single<Image>{
