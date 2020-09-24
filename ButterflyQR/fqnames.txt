@@ -1,0 +1,4 @@
+ButterflyQR
+com.lightningkite.butterfly.qr.generateBarCode
+com.lightningkite.butterfly.qr.BarcodeScannerView
+com.lightningkite.butterfly.qr.bindBarcodeScan
