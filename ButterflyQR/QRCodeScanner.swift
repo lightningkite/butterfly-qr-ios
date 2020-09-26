@@ -148,7 +148,7 @@ struct ScannerDelegateHelper:QRScannerViewDelegate{
 
 public extension BarcodeScannerView{
     
-    func bindBarcodeScan(dependency: ViewDependency) -> Observable<String> {
+    func bindBarcodeScan(dependency: ViewControllerAccess) -> Observable<String> {
         let out = PublishSubject<String>.create()
         
         self.startScanning(delegate: ScannerDelegateHelper(didFail: {}, didSuccess: {(str) in out.onNext(str)}, didStop: {}))
