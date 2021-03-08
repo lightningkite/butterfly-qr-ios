@@ -12,7 +12,7 @@ import Foundation
 import UIKit
 import AVFoundation
 import RxSwift
-import Butterfly
+import LKButterfly
 
 /// Delegate callback for the QRScannerView.
 protocol QRScannerViewDelegate {

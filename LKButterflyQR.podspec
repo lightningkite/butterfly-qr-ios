@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = "ButterflyQR"
+  s.name = "LKButterflyQR"
   s.version = "0.2.0"
   s.summary = "QR for Butterfly"
   s.description = "Shared code for Qr codes using Butterfly.  This is the iOS portion."
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.swift_version = '5.3'
   s.xcconfig = { 'SWIFT_VERSION' => '5.3' }
   # Dependency on Butterfly not representable at the moment
-  s.dependency "Butterfly"
+  s.dependency "LKButterfly"
 end

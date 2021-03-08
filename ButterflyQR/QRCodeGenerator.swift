@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import CoreImage
 import RxSwift
-import Butterfly
+import LKButterfly
 
 
 //func generateBarCode(text:String, width:Int = 200, height:Int = 200) -> Single<Image>{
