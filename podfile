@@ -1,7 +1,11 @@
 
-platform :ios, '10.0'
+platform :ios, '11.0'
 use_modular_headers!
 
 target 'ButterflyQR' do
-    pod 'Butterfly', :path => '~/StudioProjects/butterfly/butterfly.podspec'
+    pod 'LKButterfly/Core'
+end
+
+target 'ButterflyQRTests' do
+    pod 'LKButterfly/Core'
 end

@@ -8,11 +8,10 @@
 //  Copyright © 2019 KM, Abhilash. All rights reserved.
 //
 
-import Foundation
 import UIKit
 import AVFoundation
+import LKButterfly
 import RxSwift
-import Butterfly
 
 /// Delegate callback for the QRScannerView.
 protocol QRScannerViewDelegate {

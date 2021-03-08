@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import ButterflyMaps
+@testable import ButterflyQR
 
-class ButterflyMapsTests: XCTestCase {
+class ButterflyQRTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
