@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EE748562367610600EB5B6E"
-               BuildableName = "ButterflyQR.framework"
-               BlueprintName = "ButterflyQR"
-               ReferencedContainer = "container:ButterflyQR.xcodeproj">
+               BuildableName = "LKButterflyQR.framework"
+               BlueprintName = "LKButterflyQR"
+               ReferencedContainer = "container:LKButterflyQR.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5EE7485F2367610700EB5B6E"
-               BuildableName = "ButterflyQRTests.xctest"
-               BlueprintName = "ButterflyQRTests"
-               ReferencedContainer = "container:ButterflyQR.xcodeproj">
+               BuildableName = "LKButterflyQRTests.xctest"
+               BlueprintName = "LKButterflyQRTests"
+               ReferencedContainer = "container:LKButterflyQR.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -61,9 +61,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5EE748562367610600EB5B6E"
-            BuildableName = "ButterflyQR.framework"
-            BlueprintName = "ButterflyQR"
-            ReferencedContainer = "container:ButterflyQR.xcodeproj">
+            BuildableName = "LKButterflyQR.framework"
+            BlueprintName = "LKButterflyQR"
+            ReferencedContainer = "container:LKButterflyQR.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

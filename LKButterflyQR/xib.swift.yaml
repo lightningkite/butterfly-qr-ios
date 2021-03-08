@@ -5,10 +5,10 @@
   type: type
   template:
     pattern: BarcodeScannerView
-    imports: [ButterflyQR]
+    imports: [LKButterflyQR]
   xib:
     name: view
     deferTo: android.view.View
     defaults:
       attribute/customClass: BarcodeScannerView
-      attribute/customModule: ButterflyQR
+      attribute/customModule: LKButterflyQR

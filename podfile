@@ -2,10 +2,10 @@
 platform :ios, '11.0'
 use_modular_headers!
 
-target 'ButterflyQR' do
+target 'LKButterflyQR' do
     pod 'LKButterfly/Core'
 end
 
-target 'ButterflyQRTests' do
+target 'LKButterflyQRTests' do
     pod 'LKButterfly/Core'
 end
