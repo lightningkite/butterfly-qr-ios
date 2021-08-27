@@ -1,6 +1,6 @@
 //
 //  QRCodeGenerator.swift
-//  ButterflyQR
+//  LKButterflyQR
 //
 //  Created by Brady Svedin on 8/10/20.
 //  Copyright © 2020 Lightning Kite. All rights reserved.

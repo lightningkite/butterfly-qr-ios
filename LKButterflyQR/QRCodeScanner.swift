@@ -10,8 +10,8 @@
 
 import UIKit
 import AVFoundation
-import LKButterfly
 import RxSwift
+import LKButterfly
 
 /// Delegate callback for the QRScannerView.
 protocol QRScannerViewDelegate {
